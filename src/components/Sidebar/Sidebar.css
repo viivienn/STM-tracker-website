@@ -1,0 +1,11 @@
+.dropdown-toggle btn btn-secondary {
+  max-width: 250px !important;
+}
+
+.card {
+  max-width: 250px !important;
+}
+
+.selectLine {
+  background: yellow !important;
+}

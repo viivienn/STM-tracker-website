@@ -1,0 +1,11 @@
+
+
+ul#horizontal-list {
+    margin-left: 180px;
+	padding-top: 40px;
+    }
+    
+ul#horizontal-list li {
+        display: inline;
+        padding: 50px;
+	}
